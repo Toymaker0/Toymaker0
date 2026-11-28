@@ -1,1 +1,1 @@
- "Currently building" (ClinicDocs AI, StockPilot), a tidy skills row
+ "Currently building" (ClinicDocs AI), a tidy skills row
