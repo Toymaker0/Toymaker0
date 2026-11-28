@@ -4,7 +4,7 @@ Full Stack Engineer (2.5+ years) building web and mobile products with **React, 
 
 - Currently: Full Stack Developer at **Sodisys**, Technopark
 - Previously: built a Health Information Management system used by 500+ clinical staff daily
-- Learning: Data Science & Gen AI Program, HCL GUVI (IITM Pravartak)
+- Learning: Data Science & Gen AI 
 
 ## Currently building
 - **ClinicDocs AI**: RAG assistant that answers questions from medical documents with cited sources *(in progress)*
